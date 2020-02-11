@@ -1,4 +1,4 @@
-
+![ONTechU](https://shared.uoit.ca/global/files/img/logos/rgb-logo.png "ONTechU")
 
 
 
@@ -9,13 +9,12 @@ Team Shadow Dogs UNleashed
 
 
 
-Submitted by:
-Ethan Bautista 100657250
-Saood Imran 100620420
-Yale Wang 100673933
+Submitted by: <br>
+Ethan Bautista 100657250 <br>
+Saood Imran 100620420 <br>
+Yale Wang 100673933 <br>
 
 ### Introduction & Why We Chose this Topic
-
 This purpose of this project is to create an application that replaces and improves upon the conventional menus used in a restaurant. We envision the application to be more effective at capturing customers’ requests accurately as well as more clearly displaying the menu items to the customer.
 
 We chose this topic because the end result will be a product that has a lot of real-life applications. Owning a restaurant is a difficult business, so any solution that reduces costs will greatly affect the restaurant’s success. We envision our final product to both reduce the time it takes to create or make changes on the menu, reduce the time it takes to make an order when using the menu, and reduce the time it makes decisions for the restaurateur in deciding which menu items to keep and/or remove. 
